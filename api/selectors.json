@@ -1,0 +1,18 @@
+{
+    "www.hawaii.ee": {
+        "category": ".panel-collapse .panel-body .thumbnail",
+        "url": ".product-thumb .image a",
+        "product": ".product-layout",
+        "product_name": "h4 a",
+        "price": ".prices .price strong",
+        "discount": ".prices .price.win strong"
+    },
+    "arvutitark.ee": {
+        "category": ".dropdown-body ._menu-item",
+        "url": ".catalogue-product-link",
+        "product": ".catalogue-product",
+        "product_name": "h4._name",
+        "price": "div._old-price.no-wrap",
+        "discount": "span.price-html"
+    }
+}

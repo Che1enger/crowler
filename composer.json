@@ -1,0 +1,13 @@
+{
+    "name": "api/composer",
+    "autoload": {
+        "psr-4": {
+            "Api\\Composer\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.0",
+        "fabpot/goutte": "4.0.3"
+
+    }
+}
